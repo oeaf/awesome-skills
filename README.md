@@ -54,6 +54,10 @@
   仓库：https://github.com/morluto/rea
   （2026-10-11 已安装验证；另两个 skill 为该仓库自用维护工具，未装）
 
+- **reverse-skill** — 网络安全技能路由包：逆向/授权渗透/CTF/安全研究，44 条路由规则自动选方法论、按需装工具链、经验库自进化；与 rea 互补（rea 偏产品逆向抄功能，这个偏攻防找漏洞）；41k star，MIT 协议。
+  仓库：https://github.com/zhaoxuya520/reverse-skill
+  （2026-10-12 已安装验证）
+
 ## 数据与分析
 
 （待补充）
