@@ -20,6 +20,7 @@
 - [效率与自动化](#效率与自动化)
 - [开发与工程](#开发与工程)
 - [数据与分析](#数据与分析)
+- [自研 Skill](#自研-skill)
 
 ---
 
@@ -57,6 +58,16 @@
 
 （待补充）
 
+## 自研 Skill
+
+
+
+| 名字 | 功能简介 | 项目地址 |
+| --- | --- | --- |
+| feishu-bridge | 飞书企业自建应用机器人 ↔ AI Agent 双向桥接：长连接收发消息、附件回传、进程保活 | https://github.com/oeaf/feishu-bridge |
+| openmontage-muse | 本地 AI 视频生产管线：自带视频生成、Fish Audio 免费配音、ffmpeg 合成 | https://github.com/oeaf/openmontage-muse |
+| github-browser-ops | 用浏览器操作 GitHub 仓库的标准流程（GitHub App 无写权限时的代操作方案） | https://github.com/oeaf/github-browser-ops |
+| my-project | Pi coding agent 粗活外包：API key 池轮换调用，把重复劳动甩给便宜模型 | https://github.com/oeaf/my-project |
 ---
 
 ## 如何新增
