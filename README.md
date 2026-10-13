@@ -26,45 +26,42 @@
 
 ## 可视化表达
 
-- **answer-me-with-html** — 把复杂回答变成一页可视化 HTML 讲解页：流程、架构、对比、诊断都可画，也能做讲解视频。
-  仓库：https://github.com/QingYunA/answer-me-with-html
-  （2026-10-06 已安装验证）
+| 名字 | 功能简介 | 项目地址 |
+| --- | --- | --- |
+| answer-me-with-html | 把复杂回答变成一页可视化 HTML 讲解页：流程、架构、对比、诊断都可画，也能做讲解视频（2026-10-06 已安装验证） | https://github.com/QingYunA/answer-me-with-html |
 
 ## 艺术与视频动画
 
-- **huashu-art-motion** — 用代码绘制 35 种艺术风格并让画面动起来；9 种解说动画语法，可按口播参数渲染片段；含口播整片参考代码。
-  仓库：https://github.com/alchaincyf/huashu-art-motion
-  （2026-10-06 已安装验证）
-
-- **hypit** — 给 AI Agent 的视频制作语言：丢一段爆款视频进来，Agent 就把整套工作流复刻出来（素材、字幕、B-roll、特效，按词不按秒锚定），一句命令生成 100 个变体；21.3k star，个人自用免费，商用条件见其 License。
-  仓库：https://github.com/hypit-ai/hypit
-  （2026-10-12 已安装验证）
+| 名字 | 功能简介 | 项目地址 |
+| --- | --- | --- |
+| huashu-art-motion | 用代码绘制 35 种艺术风格并让画面动起来；9 种解说动画语法，可按口播参数渲染片段；含口播整片参考代码（2026-10-06 已安装验证） | https://github.com/alchaincyf/huashu-art-motion |
+| hypit | 给 AI Agent 的视频制作语言：丢一段爆款视频进来，Agent 就把整套工作流复刻出来（素材、字幕、B-roll、特效，按词不按秒锚定），一句命令生成 100 个变体；21.3k star，个人自用免费，商用条件见其 License（2026-10-12 已安装验证） | https://github.com/hypit-ai/hypit |
 
 ## 内容创作
 
-（待补充）
+| 名字 | 功能简介 | 项目地址 |
+| --- | --- | --- |
 
 ## 效率与自动化
 
-（待补充）
+| 名字 | 功能简介 | 项目地址 |
+| --- | --- | --- |
 
 ## 开发与工程
 
-- **rea** — 让 AI Agent 逆向分析任何 App：看中某个功能就讲清实现原理、带证据重建到自己项目；支持原生二进制、Electron、.NET、APK、网站、固件；83.7k star，MIT 协议。
-  仓库：https://github.com/morluto/rea
-  （2026-10-11 已安装验证；另两个 skill 为该仓库自用维护工具，未装）
-
-- **reverse-skill** — 网络安全技能路由包：逆向/授权渗透/CTF/安全研究，44 条路由规则自动选方法论、按需装工具链、经验库自进化；与 rea 互补（rea 偏产品逆向抄功能，这个偏攻防找漏洞）；41k star，MIT 协议。
-  仓库：https://github.com/zhaoxuya520/reverse-skill
-  （2026-10-12 已安装验证）
+| 名字 | 功能简介 | 项目地址 |
+| --- | --- | --- |
+| rea | 让 AI Agent 逆向分析任何 App：看中某个功能就讲清实现原理、带证据重建到自己项目；支持原生二进制、Electron、.NET、APK、网站、固件；83.7k star，MIT 协议（2026-10-11 已安装验证；另两个 skill 为该仓库自用维护工具，未装） | https://github.com/morluto/rea |
+| reverse-skill | 网络安全技能路由包：逆向/授权渗透/CTF/安全研究，44 条路由规则自动选方法论、按需装工具链、经验库自进化；与 rea 互补（rea 偏产品逆向抄功能，这个偏攻防找漏洞）；41k star，MIT 协议（2026-10-12 已安装验证） | https://github.com/zhaoxuya520/reverse-skill |
 
 ## 数据与分析
 
-（待补充）
+| 名字 | 功能简介 | 项目地址 |
+| --- | --- | --- |
+
+---
 
 ## 自研 Skill
-
-
 
 | 名字 | 功能简介 | 项目地址 |
 | --- | --- | --- |
@@ -72,6 +69,7 @@
 | openmontage-muse | 本地 AI 视频生产管线：自带视频生成、Fish Audio 免费配音、ffmpeg 合成 | https://github.com/oeaf/openmontage-muse |
 | github-browser-ops | 用浏览器操作 GitHub 仓库的标准流程（GitHub App 无写权限时的代操作方案） | https://github.com/oeaf/github-browser-ops |
 | my-project | Pi coding agent 粗活外包：API key 池轮换调用，把重复劳动甩给便宜模型 | https://github.com/oeaf/my-project |
+
 ---
 
 ## 如何新增
