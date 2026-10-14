@@ -46,6 +46,7 @@
 
 | 名字 | 功能简介 | 项目地址 |
 | --- | --- | --- |
+| WorkDaddy | WorkBuddy/CodeBuddy 桌面端增强助手：多账号独立备份一键切换、免打扰模式让 AI 无人值守跑长任务、异常中断自动续接、跨账号会话迁移、暂存/快捷提示词；1.9k star，AGPL-3.0 协议（桌面工具，2026-10-13 收录） | https://github.com/babygoton/WorkDaddy |
 
 ## 开发与工程
 
