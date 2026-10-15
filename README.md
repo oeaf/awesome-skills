@@ -52,6 +52,7 @@
 | WorkDaddy | WorkBuddy/CodeBuddy 桌面端增强助手：多账号独立备份一键切换、免打扰模式让 AI 无人值守跑长任务、异常中断自动续接、跨账号会话迁移、暂存/快捷提示词；1.9k star，AGPL-3.0 协议（桌面工具，2026-10-13 收录） | https://github.com/babygoton/WorkDaddy |
 | agent2api | 本地 OpenAI 兼容网关：复用 WorkBuddy 等十余家 AI 桌面客户端登录态，一个 base_url 调用多家模型额度，带多账号管理与请求报表；871 star（仅供学习交流、禁商用，反代行为可能违反上游 ToS；2026-10-14 收录） | https://github.com/aimod-cc/agent2api |
 | magpie | 多 Agent 统一模型网关：一个本地网关服务所有 coding agent（Claude Code、Codex、Gemini CLI 等），任意模型配任意 Agent，路由组额度耗尽自动转移，用量/成本统计；12.8k star，MIT（桌面工具，2026-10-14 收录） | https://github.com/yetone/magpie |
+| talorys | 自部署个人 AI 助手：跑在你自己的 Cloudflare 账号里，聊天、记忆、任务笔记、定时提醒和推送通知，一条命令部署，免费档友好、单用户、无遥测；1.0k star，MIT（2026-10-15 收录） | https://github.com/rociiu/talorys |
 
 ## 开发与工程
 
