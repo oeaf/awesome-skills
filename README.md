@@ -41,6 +41,7 @@
 
 | 名字 | 功能简介 | 项目地址 |
 | --- | --- | --- |
+| chinese-novelist-skill | AI 写中文小说：三层问答定大纲、逐章生成 10-50 章完整长篇（3000-5000 字/章），带创作记忆、中断续写、悬念钩子、自动校验重写；3.5k star，MIT（2026-10-14 收录） | https://github.com/PenglongHuang/chinese-novelist-skill |
 
 ## 效率与自动化
 
