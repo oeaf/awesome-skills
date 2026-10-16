@@ -29,6 +29,7 @@
 | 名字 | 功能简介 | 项目地址 |
 | --- | --- | --- |
 | answer-me-with-html | 把复杂回答变成一页可视化 HTML 讲解页：流程、架构、对比、诊断都可画，也能做讲解视频（2026-10-06 已安装验证） | https://github.com/QingYunA/answer-me-with-html |
+| anatomy | 用实物模型讲技术概念的 Agent Skill：生成精美交互式等距插图（SVG + 可选 WebGL 着色器/3D），把抽象概念做成可动可交互的实物；12.8k star，MIT（2026-10-15 收录） | https://github.com/wheresryan22/anatomy |
 
 ## 艺术与视频动画
 
