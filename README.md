@@ -37,6 +37,7 @@
 | --- | --- | --- |
 | huashu-art-motion | 用代码绘制 35 种艺术风格并让画面动起来；9 种解说动画语法，可按口播参数渲染片段；含口播整片参考代码（2026-10-06 已安装验证） | https://github.com/alchaincyf/huashu-art-motion |
 | hypit | 给 AI Agent 的视频制作语言：丢一段爆款视频进来，Agent 就把整套工作流复刻出来（素材、字幕、B-roll、特效，按词不按秒锚定），一句命令生成 100 个变体；21.3k star，个人自用免费，商用条件见其 License（2026-10-12 已安装验证） | https://github.com/hypit-ai/hypit |
+| shuohao-skills | AI 短剧制作 skill 集合（7 个）：小说改编排大纲、拆角色、定场景道具、写剧本、排开场走位、切分镜，带脚本化质量门禁，中文优先；4.7k star，Apache-2.0（2026-10-17 收录） | https://github.com/eternityspring/shuohao-skills |
 
 ## 内容创作
 
