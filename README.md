@@ -66,6 +66,7 @@
 | reverse-skill | 网络安全技能路由包：逆向/授权渗透/CTF/安全研究，44 条路由规则自动选方法论、按需装工具链、经验库自进化；与 rea 互补（rea 偏产品逆向抄功能，这个偏攻防找漏洞）；41k star，MIT 协议（2026-10-12 已安装验证） | https://github.com/zhaoxuya520/reverse-skill |
 | pentagi | 全自主 AI 多智能体渗透测试系统：Go 后端 + Web UI，Docker 自托管部署，自动执行复杂渗透测试流程；27.7k star，MIT 协议（独立系统，需自行部署；2026-10-13 收录） | https://github.com/vxcontrol/pentagi |
 | mobile-mcp | 让 AI Agent 操作真机/模拟器的 MCP Server：iOS、Android 通用，点击/滑动/输入/装包/录屏/日志/崩溃报告全覆盖，支持 Claude Code、Codex、Gemini 等；9.1k star，Apache-2.0（工具，2026-10-14 收录） | https://github.com/mobile-next/mobile-mcp |
+| harness2 | Google Research 的递归 Agent Harness 优化框架：不改模型权重，递归优化模型外围 8 个可编辑组件（system prompt、guardrails、memory、工具指引、subagents、skills、scripts、plugins）——任务级 Propose–Probe–Compose 试出最优 harness，跨任务沉淀经验进 improvement harness；实测 WorkBuddy-Bench +11.5、JobBench +4.5；6.5k star，Apache-2.0（模型实跑需自备 Vertex AI/模型额度，有 API 成本；2026-10-19 收录） | https://github.com/google-research/harness2 |
 
 ## 数据与分析
 
