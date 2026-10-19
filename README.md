@@ -49,6 +49,7 @@
 | Easel | 开源 AI 社媒运营工作台：发现热点→策划选题→创作图文/音频/视频→多平台发布→归因复盘，113 个 skill，账号画像驱动越用越贴合；3.8k star，Apache-2.0（小红书自动发布有风控风险，官方建议人工确认；2026-10-17 收录） | https://github.com/ZJU-REAL/Easel |
 | audio-studio-mcp | 本地 AI 音频工作室 MCP Server：在自己 Mac 上用 Stable Audio 3（MLX）一句话生成 BGM/乐器 loop/音效（每次 1-4 个候选），可整体换风格/重绘时间段/续写延长，做无缝循环、响度标准化，导出 WAV/OGG/FLAC；无云服务、无 API Key、生成免费，每个文件带 prompt+seed 的 .json 可复现；86 star，MIT（模型权重适用 Stability AI Community License，个人及年收<100万美元组织可商用，商用前请核实最新条款；仅 Apple Silicon Mac；2026-10-19 收录） | https://github.com/kanaworksai-hue/audio-studio-mcp |
 | ai-comic-tools | AI 漫画创作工具归类仓库：7 个 GitHub 项目覆盖故事→分镜→画格→上色全环节，对比表+选型决策树+每家一页评估；含 StoryDiffusion（6.5k star，Apache-2.0，NeurIPS 2024 Spotlight）、MangaNinja（743 star，CVPR 2025 线稿上色，CC BY-NC 4.0 非商用注意）（2026-10-19 收录） | https://github.com/oeaf/ai-comic-tools |
+| VoiceStudio | 开源、完全本地的 ElevenLabs 平替（Electron 桌面应用）：语音克隆、音色设计、视频配音、听写、转录、有声书制作，646 种语言；默认 k2-fsa/OmniVoice 引擎可换；NVIDIA CUDA / Apple Silicon 加速，无独显可 CPU 跑；带本地 API + MCP + 官方 skill（`npx skills add debpalash/VoiceStudio`）供 agent 调用；76.4k star，AGPL-3.0（应用本身含商用条件，模型权重/音色/生成内容授权另算；只克隆有授权的声音；2026-10-19 收录） | https://github.com/debpalash/VoiceStudio |
 
 ## 效率与自动化
 
