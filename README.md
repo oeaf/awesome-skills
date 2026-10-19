@@ -47,6 +47,7 @@
 | LuxTTS | 高质量极速 TTS 语音克隆模型：150 倍实时速度、48kHz 清晰语音，仅需 1GB 显存，CPU 也可实时运行；5.4k star，Apache-2.0（模型，2026-10-14 收录） | https://github.com/ysharma3501/LuxTTS |
 | InkOS | 故事创作 AI Agent 系统：长短篇小说、剧本剧作、互动影游、IP 内容与多语言翻译，19 个内置专业 Skill（写作/审稿/分镜/翻译），Studio/TUI/CLI 三端；10.3k star，AGPL-3.0（2026-10-14 收录） | https://github.com/Narcooo/inkos |
 | Easel | 开源 AI 社媒运营工作台：发现热点→策划选题→创作图文/音频/视频→多平台发布→归因复盘，113 个 skill，账号画像驱动越用越贴合；3.8k star，Apache-2.0（小红书自动发布有风控风险，官方建议人工确认；2026-10-17 收录） | https://github.com/ZJU-REAL/Easel |
+| audio-studio-mcp | 本地 AI 音频工作室 MCP Server：在自己 Mac 上用 Stable Audio 3（MLX）一句话生成 BGM/乐器 loop/音效（每次 1-4 个候选），可整体换风格/重绘时间段/续写延长，做无缝循环、响度标准化，导出 WAV/OGG/FLAC；无云服务、无 API Key、生成免费，每个文件带 prompt+seed 的 .json 可复现；86 star，MIT（模型权重适用 Stability AI Community License，个人及年收<100万美元组织可商用，商用前请核实最新条款；仅 Apple Silicon Mac；2026-10-19 收录） | https://github.com/kanaworksai-hue/audio-studio-mcp |
 
 ## 效率与自动化
 
