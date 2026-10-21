@@ -30,6 +30,7 @@
 | --- | --- | --- |
 | answer-me-with-html | 把复杂回答变成一页可视化 HTML 讲解页：流程、架构、对比、诊断都可画，也能做讲解视频（2026-10-06 已安装验证） | https://github.com/QingYunA/answer-me-with-html |
 | anatomy | 用实物模型讲技术概念的 Agent Skill：生成精美交互式等距插图（SVG + 可选 WebGL 着色器/3D），把抽象概念做成可动可交互的实物；12.8k star，MIT（2026-10-15 收录） | https://github.com/wheresryan22/anatomy |
+| diagram-design | 编辑级图表设计 Agent Skill：一句话生成自包含 HTML+SVG 图表（架构/时序/状态机/四象限/桑基/甘特/组织图等 45 种图型），扁平无阴影的杂志排版风、拒绝 Mermaid 糙图；可按品牌配色与字体定制，支持 drawio/Mermaid/Excalidraw 导入、PNG/SVG 导出；59.5k star，MIT（2026-10-21 收录并本地安装） | https://github.com/cathrynlavery/diagram-design |
 
 ## 艺术与视频动画
 
