@@ -81,6 +81,7 @@
 
 | 名字 | 功能简介 | 项目地址 |
 | --- | --- | --- |
+| world-intel-mcp | 全球情报 MCP 服务器：160 个工具覆盖 30+ 领域——金融市场/美联储流动性/SEC 文件全文检索、预测市场（Polymarket 与 Kalshi 同事件对照）、冲突军事（ACLED、ADS-B 军机追踪）、网络威胁、气候灾害、GDELT 新闻信号、难民迁移、选举日历与地理数据库（基地/港口/核设施）；数据全走免费公开 API 无需付费 key，带历史观测存档、每日带引用简报与地理围栏告警；1.0k star，MIT（2026-10-22 收录） | https://github.com/marc-shade/world-intel-mcp |
 
 ---
 
