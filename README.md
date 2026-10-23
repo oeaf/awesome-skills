@@ -80,6 +80,7 @@
 | serena | 给编程 Agent 装的"IDE"：MCP 工具包，让 Claude Code/Codex 等按符号理解与改代码（find symbol、find references、跨文件 rename、符号级编辑），底层走 LSP 语言服务器（40+ 语言，免费），另有付费 JetBrains 插件后端；uv 一条命令安装；30.5k star，GPL-3.0-or-later（本地自用无义务，分发才触发；2026-10-20 收录） | https://github.com/oraios/serena |
 | leanrea | rea 的瘦身版：一个 8KB 的 SKILL.md 干 rea 的活——不用 MCP、不用 207 个工具，直接告诉 Agent 每种目标（Electron/asar、原生二进制、Go、APK、WASM、固件等）用哪个原生命令最快 + 现成侦察命令 + 踩坑清单；作者自测对比 rea 快 38%、省 60% token、准确率打平（小样本，自测数据）；1.2k star，MIT（2026-10-21 收录并本地安装，作默认逆向路线，rea 留作后备） | https://github.com/aicodeking/leanrea |
 | LocalAI | 本地一站式 AI 推理引擎：OpenAI/Anthropic/ElevenLabs 兼容的 drop-in API，一个端点跑 LLM、视觉、语音（含声音克隆）、图像、视频，消费级硬件免 GPU 可跑；60+ 后端按需拉取，内置 agent+MCP 与 whisper ASR（可补语音管线 STT 缺口）；49.8k star，MIT（本机小 VM 无 GPU，重模态实际跑不动，只索引不部署；2026-10-21 收录） | https://github.com/mudler/LocalAI |
+| graphify | 代码库知识图谱 Skill：在编程 Agent 里用 /graphify 把整个文件夹（代码、文档、SQL、配置、PDF、截图）变成可查询的知识图谱——代码走本地 tree-sitter AST 确定性解析，文档图片走模型抽取，每条边标注提取/推断/存疑；产出交互图谱、Obsidian 库、Agent 导航 wiki 与核心节点报告，查图谱比读原文大幅省 token（作者实测 52 文件混合语料 71.5 倍），带增量缓存、watch 同步、git 钩子与 MCP 模式；133.6k star，Apache-2.0（2026-10-23 收录） | https://github.com/Graphify-Labs/graphify |
 
 ## 数据与分析
 
