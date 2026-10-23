@@ -66,6 +66,7 @@
 | magpie | 多 Agent 统一模型网关：一个本地网关服务所有 coding agent（Claude Code、Codex、Gemini CLI 等），任意模型配任意 Agent，路由组额度耗尽自动转移，用量/成本统计；12.8k star，MIT（桌面工具，2026-10-14 收录） | https://github.com/yetone/magpie |
 | reason-network | 团队 coding agent 互联消息总线：每台电脑一个 daemon + MCP（list_team/send_message/check_inbox 三个工具），Claude Code/Codex/Cursor/Gemini CLI/Copilot CLI/opencode/pi/Reason 跨机互发消息；iroh 点对点直连（中继兜底），无中心服务器；105 star，MIT/Apache-2.0 双协议（2026-10-16 建库，2026-10-17 收录） | https://github.com/reason-machines/reason-network || reason-network | 团队 coding agent 互联消息总线：每台电脑一个 daemon + MCP（list_team/send_message/check_inbox 三个工具），Claude Code/Codex/Cursor/Gemini CLI/Copilot CLI/opencode/pi/Reason 跨机互发消息；iroh 点对点直连（中继兜底），无中心服务器；105 star，MIT/Apache-2.0 双协议（2026-10-16 建库，2026-10-17 收录） | https://github.com/reason-machines/reason-network |
 | talorys | 自部署个人 AI 助手：跑在你自己的 Cloudflare 账号里，聊天、记忆、任务笔记、定时提醒和推送通知，一条命令部署，免费档友好、单用户、无遥测；1.0k star，MIT（2026-10-15 收录） | https://github.com/rociiu/talorys |
+| OpenCLI | 把网站变成命令行的浏览器自动化 CLI：Chrome 扩展+本地守护进程，让 AI Agent 在你已登录的真实 Chrome 里执行确定性命令（默认 JSON 输出）；内置 B站/知乎/小红书/Reddit/HackerNews/X/GitHub 等站点适配器，无适配器的站点可用通用浏览器原语（导航/点击/填表/提取/截图），还能用配套 skill 自写新适配器；与 xiaohongshu-mcp 恰成对照——真人浏览器与网络环境、风控面小得多；30.6k star，Apache-2.0（2026-10-23 收录） | https://github.com/jackwener/OpenCLI |
 
 ## 开发与工程
 
