@@ -55,6 +55,7 @@
 | ai-comic-tools | AI 漫画创作工具归类仓库：7 个 GitHub 项目覆盖故事→分镜→画格→上色全环节，对比表+选型决策树+每家一页评估；含 StoryDiffusion（6.5k star，Apache-2.0，NeurIPS 2024 Spotlight）、MangaNinja（743 star，CVPR 2025 线稿上色，CC BY-NC 4.0 非商用注意）（2026-10-19 收录） | https://github.com/oeaf/ai-comic-tools |
 | VoiceStudio | 开源、完全本地的 ElevenLabs 平替（Electron 桌面应用）：语音克隆、音色设计、视频配音、听写、转录、有声书制作，646 种语言；默认 k2-fsa/OmniVoice 引擎可换；NVIDIA CUDA / Apple Silicon 加速，无独显可 CPU 跑；带本地 API + MCP + 官方 skill（`npx skills add debpalash/VoiceStudio`）供 agent 调用；76.4k star，AGPL-3.0（应用本身含商用条件，模型权重/音色/生成内容授权另算；只克隆有授权的声音；2026-10-19 收录） | https://github.com/debpalash/VoiceStudio |
 | xiaohongshu-mcp | 小红书 MCP 服务器：让 AI 助手直接操作小红书——扫码登录、发布图文/视频、搜索内容、刷推荐流、看帖子详情与评论、发评论/回复、点赞、收藏、看用户主页；Docker 部署的无头浏览器 HTTP 服务，原生支持 XHS_PROXY 代理（配固定住宅 IP 可显著降低机房 IP 的风控风险）；16.5k star，Apache-2.0（2026-10-23 收录） | https://github.com/xpzouying/xiaohongshu-mcp |
+| infinite-canvas | 面向 AI 创作的开源无限画布工作台：节点连线编排文生图/图生图/参考图编辑/对话/音频/视频生成连续迭代，带提示词库、素材管理与画布助手；浏览器直连自备的 OpenAI 兼容接口（中转站/newapi/自建渠道），画布、素材与 Key 均存浏览器本地；另有本地 Agent 桥，可让 Codex/Claude Code 经 MCP 操作当前画布；8.0k star，MIT（开发期项目，作者明示本地数据格式可能不兼容变更；2026-10-23 收录） | https://github.com/basketikun/infinite-canvas |
 
 ## 效率与自动化
 
