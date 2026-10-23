@@ -41,6 +41,7 @@
 | reelbench-skills | AI 视频拆解与清理工具 skill：成片逐镜头拆解（景别/运镜/节奏作用，15 个质量门禁）、视频与镜头数据对照合成、去元数据重建干净文件；932 star，Apache-2.0（2026-10-18 收录） | https://github.com/eternityspring/reelbench-skills |
 | stickman-video-director | 火柴人动画导演 Skill：给 AI 一个话题，产出脚本、动态分镜、配音与音效提示词（再喂 AI 视频生成模型出片）；5 种画风 7 个视觉方案（极简黑白、现代流行红帽子、史前暗黑喜剧、温馨叙事、江户历史卡通），主打 YouTube 解说、TikTok、职场励志与知识短片；2.5k star，MIT（2026-10-21 收录） | https://github.com/kaomei/stickman-video-director |
 | Concat | 开源免费的剪映/CapCut 平替（Rust 本地引擎）：多轨时间线剪辑、本地 Whisper 自动字幕、本地 TTS 与声音克隆、抠像、关键帧动画、100 种特效转场、4K 导出，无水印无账号全离线；自带 MCP 服务器与 JSON-RPC 接口，AI Agent 可直接驱动剪辑；10.3k star，AGPL-3.0，beta 0.2.8（2026-10-21 收录） | https://github.com/jub0t/Concat |
+| OpenCut | 开源免费的剪映/CapCut 平替（网页版，浏览器打开 opencut.app 即剪）：同品类社区最大；与 Concat 并列收录作选型对比——手动剪辑图省事选它、Agent 自动剪辑选 Concat；注意主仓库正推倒重写（Rust 内核、插件架构，给 Agent 的 MCP 服务器与无头批量渲染在路线图上、尚未发布），当前可用稳定版在 opencut-classic 仓库，官网亦跑该版；95.8k star，MIT（2026-10-23 收录） | https://github.com/opencut-app/opencut |
 
 ## 内容创作
 
