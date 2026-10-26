@@ -37,6 +37,7 @@
 | 名字 | 功能简介 | 项目地址 |
 | --- | --- | --- |
 | hypit | 给 AI Agent 的视频制作语言：丢一段爆款视频进来，Agent 就把整套工作流复刻出来（素材、字幕、B-roll、特效，按词不按秒锚定），一句命令生成 100 个变体；21.3k star，个人自用免费，商用条件见其 License（2026-10-12 已安装验证） | https://github.com/hypit-ai/hypit |
+| digital-human-koubo | 数字人口播全流程 Skill：一张照片 + 一句需求出成品口播片——GPT Image 建人设锁一致性、经 Renoise MCP 调 Grok Video 1.5 生成原生说话+口型片段、whisper 回转录对稿质检、Remotion 剪辑渲染；5 种剪辑风格 + 48 个从 25 条头部创作者视频逐帧拆出的包装组件；520 star，MIT（真 Skill，2026-10-26 收录；生成需付费 Renoise 积分、不走 Pavo；仓库建于收录当日、维护待观察；招牌「文字在人物身后」组件仅 macOS；Remotion 另有其协议） | https://github.com/andyhuo520/digital-human-koubo |
 | shuohao-skills | AI 短剧制作 skill 集合（7 个）：小说改编排大纲、拆角色、定场景道具、写剧本、排开场走位、切分镜，带脚本化质量门禁，中文优先；4.7k star，Apache-2.0（2026-10-17 收录） | https://github.com/eternityspring/shuohao-skills |
 | reelbench-skills | AI 视频拆解与清理工具 skill：成片逐镜头拆解（景别/运镜/节奏作用，15 个质量门禁）、视频与镜头数据对照合成、去元数据重建干净文件；932 star，Apache-2.0（2026-10-18 收录） | https://github.com/eternityspring/reelbench-skills |
 | stickman-video-director | 火柴人动画导演 Skill：给 AI 一个话题，产出脚本、动态分镜、配音与音效提示词（再喂 AI 视频生成模型出片）；5 种画风 7 个视觉方案（极简黑白、现代流行红帽子、史前暗黑喜剧、温馨叙事、江户历史卡通），主打 YouTube 解说、TikTok、职场励志与知识短片；2.5k star，MIT（2026-10-21 收录） | https://github.com/kaomei/stickman-video-director |
