@@ -73,6 +73,7 @@
 | OpenCLI | 把网站变成命令行的浏览器自动化 CLI：Chrome 扩展+本地守护进程，让 AI Agent 在你已登录的真实 Chrome 里执行确定性命令（默认 JSON 输出）；内置 B站/知乎/小红书/Reddit/HackerNews/X/GitHub 等站点适配器，无适配器的站点可用通用浏览器原语（导航/点击/填表/提取/截图），还能用配套 skill 自写新适配器；与 xiaohongshu-mcp 恰成对照——真人浏览器与网络环境、风控面小得多；30.6k star，Apache-2.0（2026-10-23 收录） | https://github.com/jackwener/OpenCLI |
 | Agent-Reach | 给 AI Agent 装全网读取能力的 CLI+Skill 混合体：一个命令搜/读 X、Reddit、YouTube、B站、小红书等 14 个平台（只读不发帖），每平台一条多后端工具链自动兜底 + doctor 体检，零 API 费；OpenCLI 与 xiaohongshu-mcp 都是它的上游后端之一；102.7k star，MIT（混合体，2026-10-26 收录；登录渠道复用浏览器 cookie，作者建议用小号、暖号勿接；1.6 版部分渠道未实测；PyPI 同名包非本项目） | https://github.com/Panniantong/Agent-Reach |
 | grill-me | 方案盘问 Skill（原作者 Matt Pocock，出自其 302.5k star 的 mattpocock/skills 合集）：拿一个模糊想法对你无情追问——按轮次问遍所有"前置条件已定"的问题，逼你把决策树每个分支都想清楚直到能拍板，无状态、不写文件；grill-me 是入口、grilling 是盘问引擎，另有留痕版 grill-with-docs（结合代码库产出术语表与 ADR）和大题版 wayfinder；GitHub 上同名独立仓库多为它的副本（2026-10-25 收录） | https://github.com/mattpocock/skills |
+| Cindy | 开源开箱即用的 AI Agent 客户端（桌面+手机）：把 Claude Code、Codex、Pi 三套 harness 装进一个界面，会话跨设备接续、共享已配置的模型与订阅，带手机远程桌面、自动化例程、Slack/Telegram 通道与可定制的 companion（角色/指令/记忆/Skill）；客户端免费，用已有订阅/自备 Key/本地模型；7.3k star，Apache-2.0（工具项目，2026-10-27 收录；注意：2026-07 才建仓、成熟度待观察；后端不在开源仓内、默认连 Cindy 官方云，官方版带 TapDB 使用统计默认开、可在设置里关、本地跳过登录模式不报） | https://github.com/makecindy/cindy |
 
 ## 开发与工程
 
