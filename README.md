@@ -44,6 +44,7 @@
 | Concat | 开源免费的剪映/CapCut 平替（Rust 本地引擎）：多轨时间线剪辑、本地 Whisper 自动字幕、本地 TTS 与声音克隆、抠像、关键帧动画、100 种特效转场、4K 导出，无水印无账号全离线；自带 MCP 服务器与 JSON-RPC 接口，AI Agent 可直接驱动剪辑；10.3k star，AGPL-3.0，beta 0.2.8（2026-10-21 收录） | https://github.com/jub0t/Concat |
 | OpenCut | 开源免费的剪映/CapCut 平替（网页版，浏览器打开 opencut.app 即剪）：同品类社区最大；与 Concat 并列收录作选型对比——手动剪辑图省事选它、Agent 自动剪辑选 Concat；注意主仓库正推倒重写（Rust 内核、插件架构，给 Agent 的 MCP 服务器与无头批量渲染在路线图上、尚未发布），当前可用稳定版在 opencut-classic 仓库，官网亦跑该版；95.8k star，MIT（2026-10-23 收录） | https://github.com/opencut-app/opencut |
 | MoneyPrinterTurbo | 一站式 AI 短视频生成工具：给主题/关键词，自动写脚本、从 Pexels/Pixabay 等匹配免费库存素材、配音（Edge TTS 免费，另支持 Fish Audio 等）、加字幕与配乐并合成 9:16/16:9/1:1 高清成片，带 WebUI/API/CLI 与批量生成，可自动发 TikTok/IG/YouTube Shorts；与 AI 真生成画面的管线互补，主打低成本无脸号批量出片（脚本需自备 LLM Key）；135.6k star，MIT（工具项目，附 Agent Skill，2026-10-27 收录） | https://github.com/harry0703/MoneyPrinterTurbo |
+| awesome-opus5-5-videos | Claude Opus 5.5 代码动画视频提示词弹药库：703 条爆款视频的原始提示词（动效/讲解/3D 场景/游戏互动四类），每条链回创作者原帖、418 条在 Skillry 有与原作并排的实时复刻；复制提示词给跑 Opus 5.5 的 Agent、渲染成单个 HTML、录屏即成片，与 huashu-art-motion / ai-video-styles 的代码做视频路线配套；12.1k star，MIT（资料类，2026-10-28 收录；2026-09 新仓、仅 10 个 commit 的清单型仓库；部分提示词不完整，视频与提示词权利归原作者，原样搬运商用需谨慎） | https://github.com/yihui-dev/awesome-opus5-5-videos |
 
 ## 内容创作
 
