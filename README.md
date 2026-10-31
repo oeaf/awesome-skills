@@ -98,6 +98,7 @@
 | 名字 | 功能简介 | 项目地址 |
 | --- | --- | --- |
 | world-intel-mcp | 全球情报 MCP 服务器：160 个工具覆盖 30+ 领域——金融市场/美联储流动性/SEC 文件全文检索、预测市场（Polymarket 与 Kalshi 同事件对照）、冲突军事（ACLED、ADS-B 军机追踪）、网络威胁、气候灾害、GDELT 新闻信号、难民迁移、选举日历与地理数据库（基地/港口/核设施）；数据全走免费公开 API 无需付费 key，带历史观测存档、每日带引用简报与地理围栏告警；1.0k star，MIT（2026-10-22 收录） | https://github.com/marc-shade/world-intel-mcp |
+| douyin-comments | 抖音单条视频完整评论抓取 Skill（真 Skill）：在已登录 Chrome 里照抄页面真实请求、签名交给页面 SDK，抓一级评论+全部楼中楼+视频详情，输出按点赞排序的评论全文 Markdown 与原始 JSON，可选下载 720p 视频；不逆向 a_bogus、不用付费接口，实测 195 条与手动展开逐条一致；硬依赖 Claude Code + Claude in Chrome 扩展；279 star，无 License（代码复用无授权依据），作者声明仅个人研究、须遵守抖音协议、勿批量/商用，2026-10-30 建仓尚新（2026-10-31 收录，只索引未本地装） | https://github.com/Pluviobyte/douyin-comments |
 
 ---
 
