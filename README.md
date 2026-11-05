@@ -105,6 +105,7 @@
 | world-intel-mcp | 全球情报 MCP 服务器：160 个工具覆盖 30+ 领域——金融市场/美联储流动性/SEC 文件全文检索、预测市场（Polymarket 与 Kalshi 同事件对照）、冲突军事（ACLED、ADS-B 军机追踪）、网络威胁、气候灾害、GDELT 新闻信号、难民迁移、选举日历与地理数据库（基地/港口/核设施）；数据全走免费公开 API 无需付费 key，带历史观测存档、每日带引用简报与地理围栏告警；1.0k star，MIT（2026-10-22 收录） | https://github.com/marc-shade/world-intel-mcp |
 | douyin-comments | 抖音单条视频完整评论抓取 Skill（真 Skill）：在已登录 Chrome 里照抄页面真实请求、签名交给页面 SDK，抓一级评论+全部楼中楼+视频详情，输出按点赞排序的评论全文 Markdown 与原始 JSON，可选下载 720p 视频；不逆向 a_bogus、不用付费接口，实测 195 条与手动展开逐条一致；硬依赖 Claude Code + Claude in Chrome 扩展；279 star，无 License（代码复用无授权依据），作者声明仅个人研究、须遵守抖音协议、勿批量/商用，2026-10-30 建仓尚新（2026-10-31 收录，只索引未本地装） | https://github.com/Pluviobyte/douyin-comments |
 | Scrapling | Python 网页抓取全家桶框架（工具项目，附 MCP Server + Agent Skill）：快速 HTTP（TLS 指纹伪装/HTTP3）+ 隐身浏览器（Playwright，过 Cloudflare Turnstile/Interstitial）+ Scrapy 式 Spider 并发爬虫（代理轮换/断点续爬/AutoThrottle）+ 自适应元素追踪解析（CSS/XPath/文本/正则），一行转 RAG-ready Markdown，带 CLI 与交互 Shell；91.5k star，BSD-3-Clause（2026-11-01 收录，只索引未本地装；隐身绕过能力使用时注意目标站 ToS） | https://github.com/D4Vinci/Scrapling |
+| short_videos | 多平台短视频去水印解析 API（工具项目，非 Skill）：分享链接/文案进、无水印直链 + 封面/作者/音乐/时长等元数据出，统一 JSON、聚合入口自动识别平台分发；覆盖抖音（免 Cookie、原画/图集/实况，另有 Cloudflare Workers 版）、快手、小红书、B站、微博、头条、皮皮虾/搞笑、最右、网易云及豆包/即梦 AI 视频，PHP 8+ 零依赖自部署、另有公共实例 api.bugpk.com；1.0k star，MIT（2026-11-05 收录，只索引未本地装；去水印下载碰平台 ToS 与原作者版权，仅供学习研究、二创须自担授权，解析靠平台未公开接口、易随平台改版失效） | https://github.com/jiuhunwl/short_videos |
 
 ---
 
