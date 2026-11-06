@@ -100,6 +100,7 @@
 | REA-Prompts | REA 配套提示词库（REAP）：单个 README 收录 17 类逆向调查提示词——功能追踪、原生二进制、功能克隆、游戏、固件、Android、内核、Electron/JS、版本对比与崩溃分析、长任务调查等，替换占位符粘贴即可用；统一要求给出文件/函数/地址级证据并区分事实与推断，含授权安全研究场景提示词；1.8k star，无 License（2026-10-24 收录） | https://github.com/JoasASantos/REA-Prompts |
 | CodeGraph | 预索引代码知识图谱工具（独立 CLI + MCP 服务器，非 Skill）：Rust 内核 + tree-sitter 把代码库建成图谱存入本地 SQLite，Agent 一次调用即得相关源码、调用链与改动影响半径，不用 grep 逐文件爬；文件变更自动增量同步、框架路由感知、20+ 语言、100% 本地无需 Key；作者实测工具调用 -88%、token -62%、成本 -44%（但长会话上下文常驻占用偏高）；75.2k star，MIT（2026-10-24 收录并本地试跑通过） | https://github.com/colbymchenry/codegraph |
 | ProxyPin | 开源免费全平台抓包工具（Charles/Fiddler 平替，Flutter 开发）：拦截、查看、改写 HTTP(S) 流量，支持抓 Flutter 应用；手机扫码连接免手配 WiFi 代理、配置同步、多端互转流量，带域名过滤、JS 脚本处理、请求重写/映射（本地 mock）、AES 自动解密、请求阻断、历史保存与 HAR 导入导出，覆盖 Win/Mac/Android/iOS/Linux（iOS 有 App Store 版）；14.3k star，Apache-2.0（工具项目，2026-10-27 收录；Mac 首次打开需在安全设置里放行未受信开发者） | https://github.com/wanghongenpin/proxypin |
+| mubeng | 代理检测与 IP 轮换网关（工具项目，Go）：批量验活代理池，并在本机起代理端口逐请求轮换出口 IP；支持 HTTP、SOCKS4(A)/5 与 Amazon API Gateway，可作 Burp/ZAP 上游代理链，全平台二进制/Docker；2,796 star，Apache-2.0（README 明示用途含绕 IP 封禁、API 限速与 WAF 拦截，撞目标站 ToS 自担；2021 年老项目、维护放缓，末次功能更新 2025-08；2026-11-06 收录，只索引未本地装） | https://github.com/mubeng/mubeng |
 
 ## 数据与分析
 
