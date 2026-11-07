@@ -60,6 +60,7 @@
 | 名字 | 功能简介 | 项目地址 |
 | --- | --- | --- |
 | chinese-novelist-skill | AI 写中文小说：三层问答定大纲、逐章生成 10-50 章完整长篇（3000-5000 字/章），带创作记忆、中断续写、悬念钩子、自动校验重写；3.5k star，MIT（2026-10-14 收录） | https://github.com/PenglongHuang/chinese-novelist-skill |
+| lieflat-less-ai-tone | 数据驱动的中文去 AI 味 Skill（真 Skill）：基于两轮语料研究（1,169 篇、约 520 万字、100+ 项指标、约 50 万次模型语义判断）筛出真能区分 AI 文与人写文的特征并按证据分层；流程是先出带指标、原文例句与改法的检测报告，用户确认后才最小改写并复测，反对禁用词表与乱改误伤；附检测/报告/结构/翻译腔脚本与完整实例；6,671 star（CC BY-NC 4.0：署名、非商用，商用需联系作者；语料以简体长文为主；2026-11-07 收录，只索引未本地装） | https://github.com/larashero3-dotcom/lieflat-less-ai-tone |
 | LuxTTS | 高质量极速 TTS 语音克隆模型：150 倍实时速度、48kHz 清晰语音，仅需 1GB 显存，CPU 也可实时运行；5.4k star，Apache-2.0（模型，2026-10-14 收录） | https://github.com/ysharma3501/LuxTTS |
 | Qwen3-TTS | 阿里通义开源 TTS 模型家族：3 秒声音克隆、文字描述造声（VoiceDesign）、流式生成，支持 10 种语言，0.6B/1.7B 两档；14.0k star，Apache-2.0（模型，2026-10-26 收录，源自 @0x8888 配音清单帖评估） | https://github.com/QwenLM/Qwen3-TTS |
 | VibeVoice | 微软开源长音频 TTS 模型：一次生成最长 90 分钟、最多 4 人对话，专攻播客/访谈/有声书，另有 Realtime 流式版与 ASR 版；55.0k star，MIT（模型，需 GPU；官方仓曾因声音克隆滥用短暂下架，现已恢复并加 AI 声明与水印；2026-10-26 收录，源自 @0x8888 配音清单帖评估） | https://github.com/microsoft/VibeVoice |
