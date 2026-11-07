@@ -83,6 +83,7 @@
 | Agent-Reach | 给 AI Agent 装全网读取能力的 CLI+Skill 混合体：一个命令搜/读 X、Reddit、YouTube、B站、小红书等 14 个平台（只读不发帖），每平台一条多后端工具链自动兜底 + doctor 体检，零 API 费；OpenCLI 与 xiaohongshu-mcp 都是它的上游后端之一；102.7k star，MIT（混合体，2026-10-26 收录；登录渠道复用浏览器 cookie，作者建议用小号、暖号勿接；1.6 版部分渠道未实测；PyPI 同名包非本项目） | https://github.com/Panniantong/Agent-Reach |
 | grill-me | 方案盘问 Skill（原作者 Matt Pocock，出自其 302.5k star 的 mattpocock/skills 合集）：拿一个模糊想法对你无情追问——按轮次问遍所有"前置条件已定"的问题，逼你把决策树每个分支都想清楚直到能拍板，无状态、不写文件；grill-me 是入口、grilling 是盘问引擎，另有留痕版 grill-with-docs（结合代码库产出术语表与 ADR）和大题版 wayfinder；GitHub 上同名独立仓库多为它的副本（2026-10-25 收录） | https://github.com/mattpocock/skills |
 | Cindy | 开源开箱即用的 AI Agent 客户端（桌面+手机）：把 Claude Code、Codex、Pi 三套 harness 装进一个界面，会话跨设备接续、共享已配置的模型与订阅，带手机远程桌面、自动化例程、Slack/Telegram 通道与可定制的 companion（角色/指令/记忆/Skill）；客户端免费，用已有订阅/自备 Key/本地模型；7.3k star，Apache-2.0（工具项目，2026-10-27 收录；注意：2026-07 才建仓、成熟度待观察；后端不在开源仓内、默认连 Cindy 官方云，官方版带 TapDB 使用统计默认开、可在设置里关、本地跳过登录模式不报） | https://github.com/makecindy/cindy |
+| OpenMausBot | 开源个人 Agent 团队客户端（工具项目）：像聊天软件一样的桌面应用，侧边栏每个联系人是一个真 Agent，跑你本机已装的 claude / codex / grok 命令行、用你现成的登录与订阅，每个 bot 独立人设、模型与电脑（云端桌面、隔离虚拟机，或经授权控制主机），敏感操作有审批卡，数据存本地；16,121 star，Apache-2.0（自称 Grok Bot 与 Meta Muse 等的开源替代；0.1.x 非常早期、迭代极快、815 个 open issue；bot 可控主机加 Composio 聚合授权、权限面大；2026-11-07 收录，只索引未本地装） | https://github.com/milind-soni/OpenMausBot |
 
 ## 开发与工程
 
