@@ -87,6 +87,7 @@
 | grill-me | 方案盘问 Skill（原作者 Matt Pocock，出自其 302.5k star 的 mattpocock/skills 合集）：拿一个模糊想法对你无情追问——按轮次问遍所有"前置条件已定"的问题，逼你把决策树每个分支都想清楚直到能拍板，无状态、不写文件；grill-me 是入口、grilling 是盘问引擎，另有留痕版 grill-with-docs（结合代码库产出术语表与 ADR）和大题版 wayfinder；GitHub 上同名独立仓库多为它的副本（2026-10-25 收录） | https://github.com/mattpocock/skills |
 | Cindy | 开源开箱即用的 AI Agent 客户端（桌面+手机）：把 Claude Code、Codex、Pi 三套 harness 装进一个界面，会话跨设备接续、共享已配置的模型与订阅，带手机远程桌面、自动化例程、Slack/Telegram 通道与可定制的 companion（角色/指令/记忆/Skill）；客户端免费，用已有订阅/自备 Key/本地模型；7.3k star，Apache-2.0（工具项目，2026-10-27 收录；注意：2026-07 才建仓、成熟度待观察；后端不在开源仓内、默认连 Cindy 官方云，官方版带 TapDB 使用统计默认开、可在设置里关、本地跳过登录模式不报） | https://github.com/makecindy/cindy |
 | OpenMausBot | 开源个人 Agent 团队客户端（工具项目）：像聊天软件一样的桌面应用，侧边栏每个联系人是一个真 Agent，跑你本机已装的 claude / codex / grok 命令行、用你现成的登录与订阅，每个 bot 独立人设、模型与电脑（云端桌面、隔离虚拟机，或经授权控制主机），敏感操作有审批卡，数据存本地；16,121 star，Apache-2.0（自称 Grok Bot 与 Meta Muse 等的开源替代；0.1.x 非常早期、迭代极快、815 个 open issue；bot 可控主机加 Composio 聚合授权、权限面大；2026-11-07 收录，只索引未本地装） | https://github.com/milind-soni/OpenMausBot |
+| deva | 对话式桌面 AI Agent 客户端（工具项目，Electron）：把 Agent 能力装进聊天界面，多服务商接入，自带浏览器与终端等工具和 persona 角色系统（角色提示词追加到系统提示词层，一个对话绑定一个角色、首发后不可改，自定义角色存本地 .md）；内置全能助手 Deva 与破甲角色「小码酱」（约 29KB 的安全研究与逆向向提示词快照，README 称源自 dsh-purge 且仅对国产模型生效，2026-10-25 源码核查实为硬编码、无模型白名单）；870 star，MIT（破甲角色属越狱向提示词，本条目仅作索引记录；桌面应用，本机 VM 无图形会话，真要用装 Mac；2026-11-08 收录，只索引未本地装） | https://github.com/sqfcyily/deva |
 
 ## 开发与工程
 
