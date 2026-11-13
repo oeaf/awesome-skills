@@ -152,6 +152,7 @@
 | 名字 | 功能简介 | 项目地址 |
 | --- | --- | --- |
 | feishu-bridge | 飞书企业自建应用机器人 ↔ AI Agent 双向桥接：长连接收发消息、附件回传、进程保活 | https://github.com/oeaf/feishu-bridge |
+| muse-qq-bridge | QQ 官方机器人 ↔ Muse 双向桥接：腾讯官方 SDK 长连接收发私聊与群 @ 文字、文件队列 + hook 唤醒、白名单默认拒绝、扫码绑定、被动回复限额与长文切分（借鉴官方 dsh-qqbot 的已验证做法；dry-run 冒烟已跑通，真实连通须部署机绑定机器人后按 CHECKLIST 验收；2026-11-13 建库） | https://github.com/oeaf/muse-qq-bridge |
 | openmontage-muse | 本地 AI 视频生产管线：自带视频生成、Fish Audio 免费配音、ffmpeg 合成 | https://github.com/oeaf/openmontage-muse |
 | github-browser-ops | 用浏览器操作 GitHub 仓库的标准流程（GitHub App 无写权限时的代操作方案） | https://github.com/oeaf/github-browser-ops |
 | my-project | Pi coding agent 粗活外包：API key 池轮换调用，把重复劳动甩给便宜模型 | https://github.com/oeaf/my-project |
