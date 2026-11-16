@@ -97,6 +97,7 @@
 | Cindy | 开源开箱即用的 AI Agent 客户端（桌面+手机）：把 Claude Code、Codex、Pi 三套 harness 装进一个界面，会话跨设备接续、共享已配置的模型与订阅，带手机远程桌面、自动化例程、Slack/Telegram 通道与可定制的 companion（角色/指令/记忆/Skill）；客户端免费，用已有订阅/自备 Key/本地模型；7.3k star，Apache-2.0（工具项目，2026-10-27 收录；注意：2026-07 才建仓、成熟度待观察；后端不在开源仓内、默认连 Cindy 官方云，官方版带 TapDB 使用统计默认开、可在设置里关、本地跳过登录模式不报） | https://github.com/makecindy/cindy |
 | OpenMausBot | 开源个人 Agent 团队客户端（工具项目）：像聊天软件一样的桌面应用，侧边栏每个联系人是一个真 Agent，跑你本机已装的 claude / codex / grok 命令行、用你现成的登录与订阅，每个 bot 独立人设、模型与电脑（云端桌面、隔离虚拟机，或经授权控制主机），敏感操作有审批卡，数据存本地；16,121 star，Apache-2.0（自称 Grok Bot 与 Meta Muse 等的开源替代；0.1.x 非常早期、迭代极快、815 个 open issue；bot 可控主机加 Composio 聚合授权、权限面大；2026-11-07 收录，只索引未本地装） | https://github.com/milind-soni/OpenMausBot |
 | deva | 对话式桌面 AI Agent 客户端（工具项目，Electron）：把 Agent 能力装进聊天界面，多服务商接入，自带浏览器与终端等工具和 persona 角色系统（角色提示词追加到系统提示词层，一个对话绑定一个角色、首发后不可改，自定义角色存本地 .md）；内置全能助手 Deva 与破甲角色「小码酱」（约 29KB 的安全研究与逆向向提示词快照，README 称源自 dsh-purge 且仅对国产模型生效，2026-10-25 源码核查实为硬编码、无模型白名单）；870 star，MIT（破甲角色属越狱向提示词，本条目仅作索引记录；桌面应用，本机 VM 无图形会话，真要用装 Mac；2026-11-08 收录，只索引未本地装） | https://github.com/sqfcyily/deva |
+| misterdownloadmanager | 开源下载管理器（工具项目，纯 Rust clean-room 从零写，IDM 免费平替）：多线程加速下载与断点续传、浏览器扩展自动接管（Chrome/Firefox）、Torrent 全支持（磁力/.torrent/做种）、视频/播放列表/m3u8 下载与 Real-Debrid、86 种语言、无广告无注册，Win/Linux 正式版；10,530 star，GPL-3.0（注意：2026-10-29 才建仓、仓龄极短且星数暴涨，最新 v0.5.2；作者自测「比 IDM 快 5 倍/1GB 1 秒」为其本地口径、未独立核实；Windows 安装包未代码签名、首启弹 SmartScreen，macOS 版为 experimental 且作者未真机试过；本机 VM 无图形会话，真要用下 Release 装 Windows/Mac；2026-11-16 收录，只索引未本地装） | https://github.com/anefzaoui/misterdownloadmanager |
 
 ## 开发与工程
 
